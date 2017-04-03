@@ -1,5 +1,5 @@
 # Day1
-The project is titled day 1. It has the concepts that I learned during my Java+Android certification at HPES. It marks the start of my journey into Android Proramming, Hence Day 1.
+The project is titled day 1. It has the concepts that I learned during my Java+Android certification at HPES. It marks the start of my journey into Android Programming, Hence Day 1.
 List of Android features implemented in this project:
   1)FirstActivity(Hello World)
   2)Counter
